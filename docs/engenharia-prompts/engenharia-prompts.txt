@@ -1,0 +1,85 @@
+# 🤖 Engenharia de Prompts
+
+Durante os estudos foram realizados diversos testes para entender como diferentes formas de formular perguntas influenciam a qualidade das respostas fornecidas pelo NotebookLM.
+
+Prompt 1
+
+Pergunta
+
+> Explique o que é Java para alguém que está começando a programar.
+
+Objetivo
+
+Obter uma explicação simples e introdutória.
+
+Resultado
+O Java é uma das linguagens de programação mais populares e versáteis do mundo, sendo amplamente utilizada em sistemas de empresas (backend), aplicações desktop e no desenvolvimento de aplicativos móveis para Android
+
+Aprendizado
+
+Perguntas diretas são úteis para introduzir um novo assunto.
+
+
+ Prompt 2
+
+Pergunta
+
+Explique a diferença entre JVM, JRE e JDK utilizando exemplos do dia a dia.
+
+Objetivo
+
+Compreender a função de cada componente do ecossistema Java.
+
+Resultado
+
+JVM: Traduz e executa o código
+JRE (JVM + Bibliotecas): Serve para rodar aplicações
+JDK (JRE + Ferramentas): Serve para desenvolver e rodar aplicações
+
+ Aprendizado
+
+Solicitar exemplos práticos torna conceitos técnicos mais fáceis de entender.
+
+ Prompt 3
+
+Pergunta
+
+Explique Programação Orientada a Objetos em Java com exemplos de código.
+
+Objetivo
+
+Relacionar teoria e prática.
+
+Resultado
+
+A Programação Orientada a Objetos (POO) em Java é um paradigma que busca aproximar o mundo digital do mundo real através da criação de objetos
+. Em vez de apenas uma sequência de instruções, o sistema é projetado em volta de entidades que possuem características e comportamentos
+
+Prompt 4
+
+Pergunta
+
+Faça um resumo dos principais conceitos estudados até agora.
+
+Objetivo
+
+Criar um material de revisão rápida.
+
+Resultado
+
+Foi gerado um resumo organizado em tópicos, facilitando futuras revisões.
+
+Dificuldades Encontradas
+
+| Situação                  | Solução                           |
+| ------------------------- | --------------------------------- |
+| Respostas muito genéricas | Fazer perguntas mais específicas  |
+| Falta de exemplos         | Solicitar exemplos práticos       |
+| Respostas muito extensas  | Pedir resumos em tópicos          |
+| Conceitos complexos       | Solicitar comparações e analogias |
+
+
+
+Conclusão
+
+A experiência demonstrou que a qualidade das respostas está diretamente relacionada à clareza e ao nível de detalhe dos prompts utilizados. Ajustar a forma de perguntar permitiu obter respostas mais completas e adequadas aos objetivos de estudo.

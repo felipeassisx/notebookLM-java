@@ -1,0 +1,104 @@
+# 📘 Miniguia de Estudos
+
+O que é Java?
+
+Java é uma linguagem de programação orientada a objetos, criada para permitir o desenvolvimento de aplicações portáveis, seguras e de alto desempenho.
+
+Características
+
+* Orientada a Objetos
+* Multiplataforma
+* Robusta
+* Segura
+* Ampla comunidade
+* Grande utilização no mercado
+
+
+ Estrutura Básica
+java
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println("Olá, Mundo!");
+
+    }
+
+}
+
+
+Tipos de Dados
+
+* int
+* double
+* float
+* long
+* boolean
+* char
+* String
+
+---
+
+Estruturas Condicionais
+
+* if
+* else
+* switch
+
+---
+
+Estruturas de Repetição
+
+* for
+* while
+* do while
+
+---
+
+Programação Orientada a Objetos
+
+Classe
+
+Modelo utilizado para criar objetos.
+
+ Objeto
+
+Instância de uma classe.
+
+ Encapsulamento
+
+Protege os dados internos da classe.
+
+ Herança
+
+Permite reutilizar características entre classes.
+
+ Polimorfismo
+
+Possibilita diferentes implementações para um mesmo método.
+
+Abstração
+
+Representa apenas as características essenciais de um objeto.
+
+---
+
+Tratamento de Exceções
+
+Java utiliza os blocos:
+
+* try
+* catch
+* finally
+* throw
+* throws
+
+---
+
+Boas Práticas
+
+* Utilizar nomes significativos para variáveis.
+* Criar métodos pequenos e objetivos.
+* Comentar apenas quando necessário.
+* Evitar repetição de código.
+* Seguir convenções de nomenclatura da linguagem.

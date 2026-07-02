@@ -1,0 +1,49 @@
+Contexto e Objetivos
+
+Contexto
+
+Este projeto foi desenvolvido durante o Bootcamp Bradesco utilizando o NotebookLM como ferramenta de apoio aos estudos.
+
+O tema escolhido foi a linguagem **Java**, uma das linguagens de programação mais utilizadas no desenvolvimento de aplicações corporativas, sistemas web, aplicativos Android e soluções empresariais.
+
+Para realizar os estudos, foram adicionadas ao NotebookLM fontes de referência confiáveis, permitindo utilizar Inteligência Artificial para responder dúvidas, gerar resumos, explicar conceitos técnicos e revisar conteúdos.
+
+O projeto também teve como objetivo compreender como ferramentas baseadas em IA podem auxiliar no processo de aprendizagem, tornando os estudos mais organizados e eficientes.
+
+
+Objetivos do Projeto
+
+* Aprender os fundamentos da linguagem Java.
+* Compreender a sintaxe básica da linguagem.
+* Estudar Programação Orientada a Objetos.
+* Desenvolver habilidades em engenharia de prompts.
+* Organizar um material de revisão reutilizável.
+* Demonstrar a utilização prática do NotebookLM como ferramenta de apoio aos estudos.
+
+
+Assuntos Estudados
+
+Durante o projeto foram estudados os seguintes tópicos:
+
+* História da linguagem Java
+* JDK, JRE e JVM
+* Estrutura de um programa Java
+* Variáveis e tipos de dados
+* Operadores
+* Estruturas condicionais
+* Estruturas de repetição
+* Métodos
+* Vetores e Arrays
+* Programação Orientada a Objetos
+* Classes
+* Objetos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Abstração
+* Tratamento de exceções
+
+
+Conclusão
+
+O uso do NotebookLM tornou o processo de aprendizagem mais dinâmico, permitindo esclarecer dúvidas rapidamente, consolidar conceitos importantes e produzir materiais de revisão de forma organizada.

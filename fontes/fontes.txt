@@ -1,0 +1,12 @@
+
+
+OBJETIVO:
+criar um segundo cérebro baseado nos ensinamentos da linguagem java 
+
+FONTES DE VIDEO
+https://www.youtube.com/watch?v=mxDMTtCEPAY
+https://www.youtube.com/watch?v=nODe5lFcGpg
+https://www.youtube.com/watch?v=xk4_1vDrzzo
+fontes de texto
+https://docs.oracle.com/en/java/
+https://www.w3schools.com/java/java_ref_reference.asp

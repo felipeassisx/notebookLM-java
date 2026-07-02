@@ -1,0 +1,71 @@
+# 📖 Glossário
+
+JVM
+
+Java Virtual Machine. Responsável por executar o código Java em diferentes sistemas operacionais.
+
+---
+
+JDK
+
+Java Development Kit. Conjunto de ferramentas utilizadas para desenvolver aplicações Java.
+
+---
+
+JRE
+
+Java Runtime Environment. Ambiente necessário para executar programas Java.
+
+---
+
+Classe
+
+Modelo que define atributos e métodos para criação de objetos.
+
+---
+
+Objeto
+
+Instância criada a partir de uma classe.
+
+---
+
+Método
+
+Bloco de código responsável por executar uma determinada ação.
+
+---
+
+Atributo
+
+Variável pertencente a uma classe.
+
+---
+
+Encapsulamento
+
+Princípio que protege os dados internos de uma classe, controlando seu acesso.
+
+---
+
+Herança
+
+Mecanismo que permite reutilizar características de outra classe.
+
+---
+
+ Polimorfismo
+
+Capacidade de um método apresentar diferentes comportamentos conforme o contexto.
+
+---
+
+Abstração
+
+Processo de representar apenas as características essenciais de um objeto.
+
+---
+
+Exceção
+
+Evento que interrompe o fluxo normal de execução de um programa e pode ser tratado para evitar falhas.
